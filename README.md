@@ -26,6 +26,10 @@ IS117 A03 Homework - Rourke Hillyer
     
   To Download and use Webstorm:
   
+    - Navigate to the follow link:
+      - https://www.jetbrains.com/student/
+    - From here scroll down to the "Apply Now" button
+    - This will allow you to enter your student credentials to recieve a free access to multiple programs
     - 
 
 
@@ -33,7 +37,7 @@ IS117 A03 Homework - Rourke Hillyer
 
 
 
-https://www.jetbrains.com/student/
+
 
 
 
