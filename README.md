@@ -30,7 +30,26 @@ IS117 A03 Homework - Rourke Hillyer
       - https://www.jetbrains.com/student/
     - From here scroll down to the "Apply Now" button
     - This will allow you to enter your student credentials to recieve a free access to multiple programs
-    - 
+    - From there download Webstorm and follow the setup to complete the installation process
+    - After this create a project file for IS117
+    - Once this is done go into settings and in the top bar the Webstorm should have auto-checked for git
+    - From here you will be able to push and pull to your Github account
+    
+ 
+ Glossary:
+ 
+  - **Branch** - a part of a file 
+  - **Clone** - a replica of something
+  - **Commit** - to secure a change
+  - **Fetch** - to retrieve 
+  - **GIT** - A on console program used to communicate with Github
+  - **Github** - A service allowing a sharing of code and projects
+  - **Merge** - joining together of two things
+  - **Merge Conflict** - Bringing together two conflicting changes
+  - **Push** - moves changes from system to Github
+  - **Pull** - moves changes from Github to system
+  - **Remote** - local device
+  - **Repository** - where code and files can be kept of a specific project
 
 
 
